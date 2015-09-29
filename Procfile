@@ -1,1 +1,1 @@
-web: node main.bundle.js
+web: node index.js
